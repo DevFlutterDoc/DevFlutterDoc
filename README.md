@@ -28,6 +28,6 @@
 ---
 <h3 align="left">Connect with me:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFlutterDoc&theme=radical" alt="DevFlutterDoc"/></p>
+<p>&nbsp;<img align="center" src="ttps://graphdevdilanka.herokuapp.com/?user=DevFlutterDoc&theme=radical" alt="DevFlutterDoc"/></p>
 
 ---
