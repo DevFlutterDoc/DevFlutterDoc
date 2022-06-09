@@ -15,7 +15,7 @@
 
 - 💼 Want to Reach me, *[email](mailto:devdilanka@gmail.com)*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevFlutterDoc&count_private=true&show_icons=true&locale=en&theme=radical" alt="DevFlutterDoc" /></p>
+<p>&nbsp;<img align="center" src="https://graphdevdilanka.herokuapp.com/api?username=DevFlutterDoc&count_private=true&show_icons=true&locale=en&theme=radical" alt="DevFlutterDoc" /></p>
 
 ---
 
