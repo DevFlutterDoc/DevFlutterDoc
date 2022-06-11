@@ -31,6 +31,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yapa-Lanka-Developers&theme=radical" alt="Yapa-Lanka-Developers"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yapa-Lanka-Developers&theme=synthwave" alt="Yapa-Lanka-Developers"/></p>
 
 ---
