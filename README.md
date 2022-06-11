@@ -15,7 +15,7 @@
 
 - 💼 Want to Reach me, *[email](mailto:devdilanka@gmail.com)*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yapa-Lanka-Developers&count_private=true&show_icons=true&locale=en&theme=Gradient" alt="Yapa-Lanka-Developers" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yapa-Lanka-Developers&count_private=true&show_icons=true&locale=en&theme=gradient" alt="Yapa-Lanka-Developers" /></p>
 
 ---
 
