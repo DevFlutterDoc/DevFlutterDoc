@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">We are passionate Flutter Developer</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yapa-Lanka-Developers&theme=buddhismh&column=4&margin-w=15&margin-h=15" alt="dilankayapa" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yapa-Lanka-Developers&theme=buddhism&column=4&margin-w=15&margin-h=15" alt="dilankayapa" /></a> </p>
 
 - 🔭 I’m currently working as a **FLUTTER Application Developers**. 
 
