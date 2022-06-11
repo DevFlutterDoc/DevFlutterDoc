@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, WE are Yapa Lanka Developer Group </h1>
+<h1 align="center">Hi 👋, WE ARE Yapa Lanka Developers Group </h1>
 
 ---
 
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">We are passionate Flutter Developer</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yapa-Lanka-Developers&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="dilankayapa" /></a> </p>
 
 - 🔭 I’m currently working as a **FLUTTER Application Developers**. 
 
-- 🌱 I’m currently learning **Computer Science & Statistics & Mathematics.**
+- 🌱 I’m currently learning **ML/AR Based Applications.**
 
 - 🤝 I’m looking for help with **Flutter IOS App Development**
 
-- ⚡ Fun fact is **Still in the University.**
+- ⚡ Fun fact is **We Develop Apps with Single Code Base for all the Platforms**
 
-- 💼 Want to Reach me, *[email](mailto:dilankayapa10@gmail.com)*
+- 💼 Want to Reach me, *[email](mailto:devdilanka@gmail.com)*
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yapa-Lanka-Developers&count_private=true&show_icons=true&locale=en&theme=radical" alt="Yapa-Lanka-Developers" /></p>
 
