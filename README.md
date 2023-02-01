@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">We are passionate Flutter Developer</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dilanka-yapa-dev&theme=buddhism&column=4&margin-w=15&margin-h=15" alt="Yapa-Lanka-Developers" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dilankayapagit&theme=buddhism&column=4&margin-w=15&margin-h=15" alt="Yapa-Lanka-Developers" /></a> </p>
 
 - 🔭 I’m currently working as a **FLUTTER Application Developers**. 
 
@@ -15,7 +15,7 @@
 
 - 💼 Want to Reach me, *[email](mailto:devdilanka@gmail.com)*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilanka-yapa-dev&count_private=true&show_icons=true&locale=en&theme=synthwave" alt="Yapa-Lanka-Developers" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilankayapagit&count_private=true&show_icons=true&locale=en&theme=synthwave" alt="Yapa-Lanka-Developers" /></p>
 
 ---
 
@@ -29,6 +29,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilanka-yapa-dev&theme=synthwave" alt="Yapa-Lanka-Developers"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapagit&theme=synthwave" alt="Yapa-Lanka-Developers"/></p>
 
 ---
