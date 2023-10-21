@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **ML/AR Based Applications.**
 
-- 🤝 I’m looking for help with **Flutter IOS App Development**
-
-- ⚡ Fun fact is **We Develop Apps with Single Code Base for all the Platforms**
+- ⚡ Fun fact is **We Develop Apps with a Single Code Base for all the Platforms**
 
 - 💼 Want to Reach me, *[email](mailto:devdilanka@gmail.com)*
 
@@ -24,11 +22,7 @@
               
               
 ---
-<h3 align="left">Connect with me:</h3>
-<p><a href="https://www.linkedin.com/in/dilanka-yapa"><img align="center" alt="Dilanka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-</p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapagit&theme=synthwave" alt="Yapa-Lanka-Developers"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapagit&theme=synthwave" alt="dilankayapagit"/></p>
 
 ---
