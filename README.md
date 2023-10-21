@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I AM DILANKA YAPA AND OWNER OF YAPA LANKA DEVELOPERS GROUP </h1>
+<h1 align="center">Hi 👋, I AM DILANKA YAPA </h1>
 
 ---
 
